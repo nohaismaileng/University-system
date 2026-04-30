@@ -1,0 +1,27 @@
+[
+  {
+    "code": "ce111",
+    "name": "gff",
+    "max_degree": "fg"
+  },
+  {
+    "code": "ce123",
+    "name": "english",
+    "max_degree": "100"
+  },
+  {
+    "code": "ce1234",
+    "name": "math",
+    "max_degree": "100"
+  },
+  {
+    "code": "ce12345",
+    "name": "programming",
+    "max_degree": "100"
+  },
+  {
+    "code": "ce12",
+    "name": "law",
+    "max_degree": "10"
+  }
+]
